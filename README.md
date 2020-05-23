@@ -1,6 +1,6 @@
 # deep-learning-image-captioning
 Define and train an image-to-caption model, that can produce descriptions for real world images! 
-- Week 6 of Deep Learning Course from Coursera!
+- Week 6 of Deep Learning Course from Coursera! (https://www.coursera.org/learn/intro-to-deep-learning/home/welcome)
 
 ## Data
 
@@ -10,7 +10,7 @@ Define and train an image-to-caption model, that can produce descriptions for re
 
 ## Model Architeture
 
-
+<img src="images/encoder_decoder.png" style="width:70%">
 
 - Model architecture: CNN encoder and RNN decoder. 
 (https://research.googleblog.com/2014/11/a-picture-is-worth-thousand-coherent.html)
